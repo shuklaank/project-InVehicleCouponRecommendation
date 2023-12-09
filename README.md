@@ -41,6 +41,7 @@ Science Direct for machine learning models
 # Contributors
 
 Ankita Shukla
+
 Achala Shenoy              
 Navya Pragathi Molugaram   
 Sanidhya Mathur
